@@ -6,6 +6,7 @@
 
 
 ## Skills:
+- Java
 - Collections, Java IO, lambda expressions, Stream API, Networking;
 - Working with CSV, JSON, XML;
 - JUnit, Mockito;
@@ -13,10 +14,11 @@
 - Design patterns: Builder, Singleton, Adapter, Iterator;
 - Maven;
 - Understanding of HTML, CSS, TCP/IP;
+- C (beginner's);
 
 ## Study projects:
 - [Netology course work: Image to text graphics converter](https://github.com/olgaobraztsova/text-graphics)
-- [Harvard's CS50 homework: image filter (language - C)](https://github.com/me50/olgaobraztsova.git)
+- [Harvard's CS50 homework: Image filter (language - C)](https://github.com/me50/olgaobraztsova.git). Task description: [https://cs50.harvard.edu/x/2021/psets/4/filter/more/](https://cs50.harvard.edu/x/2021/psets/4/filter/more/)
 
 
 <!--
