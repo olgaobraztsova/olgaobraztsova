@@ -16,7 +16,7 @@
 
 ## Study projects:
 - [Netology course work: Image to text graphics converter](https://github.com/olgaobraztsova/text-graphics)
-- [Harvard's CS50 homework: graphics converter (language - C)](https://github.com/me50/olgaobraztsova.git)
+- [Harvard's CS50 homework: image filter (language - C)](https://github.com/me50/olgaobraztsova.git)
 
 
 <!--
