@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hi there, I'm Olga 👋
+
+- I’m currently learning ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+- How to reach me: olga.obraztsova@gmail.com
+- I speak Russian (native) and English (C1)
+- 
+
+## Skills:
+- Collections, Java IO, lambda expressions, Stream API, Networking;
+- Working with CSV, JSON, XML;
+- JUnit, Mockito;
+- GIT, Github;
+- Design patterns: Builder, Singleton, Adapter, Iterator;
+- Maven;
+- Understanding of HTML, CSS, TCP/IP;
+
+## Study projects:
+[Image to text graphics converter](https://github.com/olgaobraztsova/text-graphics)
+
 
 <!--
 **olgaobraztsova/olgaobraztsova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
