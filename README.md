@@ -18,7 +18,8 @@
 
 ## Study projects:
 - [Netology course work: Image to text graphics converter](https://github.com/olgaobraztsova/text-graphics)
-- [Harvard's CS50 homework: Image filter (language - C)](https://github.com/me50/olgaobraztsova.git). Task description: [https://cs50.harvard.edu/x/2021/psets/4/filter/more/](https://cs50.harvard.edu/x/2021/psets/4/filter/more/)
+- [Harvard's CS50 homework: Image filter (language - C)](https://github.com/me50/olgaobraztsova/tree/cs50/problems/2021/x/filter/more). Task description: [https://cs50.harvard.edu/x/2021/psets/4/filter/more/](https://cs50.harvard.edu/x/2021/psets/4/filter/more/)
+- [Harvard's CS50 homework: Substitution cipher (language - C)](https://github.com/me50/olgaobraztsova/blob/cs50/problems/2021/x/substitution/substitution.c). Task description: [https://cs50.harvard.edu/x/2021/psets/2/substitution/](https://cs50.harvard.edu/x/2021/psets/2/substitution/)
 
 
 <!--
