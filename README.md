@@ -15,7 +15,8 @@
 - Understanding of HTML, CSS, TCP/IP;
 
 ## Study projects:
-[Image to text graphics converter](https://github.com/olgaobraztsova/text-graphics)
+- [Netology course work: Image to text graphics converter](https://github.com/olgaobraztsova/text-graphics)
+- [Harvard's CS50 homework: graphics converter (language - C)](https://github.com/me50/olgaobraztsova.git)
 
 
 <!--
