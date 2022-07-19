@@ -24,6 +24,11 @@
 - [Harvard's CS50 homework: Check Credit card number (language - C)](https://github.com/me50/olgaobraztsova/blob/cs50/problems/2021/x/credit/credit.c). Task description: [https://cs50.harvard.edu/x/2021/psets/1/credit/](https://cs50.harvard.edu/x/2021/psets/1/credit/)
 
 
+
+## Course Completion Certificate
+- [Netology's Java Developer Course](https://github.com/olgaobraztsova/pcs-jd-diplom)
+
+
 <!--
 **olgaobraztsova/olgaobraztsova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
