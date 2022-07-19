@@ -26,7 +26,7 @@
 
 
 ## Course Completion Certificate
-- [Netology's Java Developer Course](https://github.com/olgaobraztsova/olgaobraztsova/files/9139369/certificate.pdf)
+- [Netology's Java Developer Course](https://github.com/olgaobraztsova/olgaobraztsova/blob/main/certificate.pdf)
 
 
 <!--
