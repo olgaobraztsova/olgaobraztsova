@@ -30,7 +30,7 @@
 
 ## Course Completion Certificate
 - [Java Developer, Netology](https://github.com/olgaobraztsova/olgaobraztsova/blob/main/certificate.pdf)
-
+- [Java Developer, Yandex.Practicum]
 
 <!--
 **olgaobraztsova/olgaobraztsova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
