@@ -17,8 +17,11 @@
 - C (beginner's);
 
 ## Study projects:
-- [Netology final course work: Search Engine (language - Java)](https://github.com/olgaobraztsova/pcs-jd-diplom)
-- [Netology course work: Image to text graphics converter (language - Java)](https://github.com/olgaobraztsova/text-graphics)
+- [Yandex.Practicum final project: Explore with me (Java) - an event app](https://github.com/olgaobraztsova/java-explore-with-me)
+- [Yandex.Practicum project: Filmorate (Java) - a film rating app](https://github.com/olgaobraztsova/java-filmorate)
+- [Yandex.Practicum project: Share-It (Java) - a link sharing app](https://github.com/olgaobraztsova/java-shareit)
+- [Netology final project: Search Engine (language - Java)](https://github.com/olgaobraztsova/pcs-jd-diplom)
+- [Netology course project: Image to text graphics converter (language - Java)](https://github.com/olgaobraztsova/text-graphics)
 - [Harvard's CS50 homework: Image filter (language - C)](https://github.com/me50/olgaobraztsova/tree/cs50/problems/2021/x/filter/more). Task description: [https://cs50.harvard.edu/x/2021/psets/4/filter/more/](https://cs50.harvard.edu/x/2021/psets/4/filter/more/)
 - [Harvard's CS50 homework: Substitution cipher (language - C)](https://github.com/me50/olgaobraztsova/blob/cs50/problems/2021/x/substitution/substitution.c). Task description: [https://cs50.harvard.edu/x/2021/psets/2/substitution/](https://cs50.harvard.edu/x/2021/psets/2/substitution/)
 - [Harvard's CS50 homework: Check Credit card number (language - C)](https://github.com/me50/olgaobraztsova/blob/cs50/problems/2021/x/credit/credit.c). Task description: [https://cs50.harvard.edu/x/2021/psets/1/credit/](https://cs50.harvard.edu/x/2021/psets/1/credit/)
